@@ -51,10 +51,3 @@
     <a href="https://www.linkedin.com/in/dario-paroli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dario paroli" height="30" width="40" /></a>
     <a href="https://www.instagram.com/dario_paroli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emanuele.rsp" height="30" width="40" /></a>
 </p>
-
-<br>
-
-## Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadadagit&show_icons=true&locale=en&layout=compact" alt="dadadagit" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dadadagit&show_icons=true&hide=issues&locale=en" alt="dadadagit" /></p>
