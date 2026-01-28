@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Dario!</h1>
-<h3 align="center">Bachelor Degree in Computer Sience at University of Pisa 🎓</h3>
+<h3 align="center">Bachelor's degree in Computer Sience at University of Pisa 🎓</h3>
 
 <p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDaDaDaGit&labelColor=%23697689&countColor=%23B0FFB8&labelStyle=upper" alt="DaDaDaGit" height="25"/> </p>
 
